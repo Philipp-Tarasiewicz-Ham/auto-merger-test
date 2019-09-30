@@ -1,2 +1,2 @@
 # auto-merger-test
-EDIT from `first` branch.
+Another EDIT from `first` branch.
